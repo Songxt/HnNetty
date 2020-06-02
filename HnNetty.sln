@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HnNetty", "HnNetty\HnNetty.csproj", "{19EEBAB6-045D-46EA-B534-67F823397F67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HnNetty.Client", "HnNetty.Client\HnNetty.Client.csproj", "{F6BFEDE0-3DC2-468C-83AF-C59EE861452C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HnDb", "HnDb\HnDb.csproj", "{F3E79C91-267F-4DCD-9D4D-18E27BE077BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19EEBAB6-045D-46EA-B534-67F823397F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19EEBAB6-045D-46EA-B534-67F823397F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19EEBAB6-045D-46EA-B534-67F823397F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19EEBAB6-045D-46EA-B534-67F823397F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6BFEDE0-3DC2-468C-83AF-C59EE861452C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BFEDE0-3DC2-468C-83AF-C59EE861452C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BFEDE0-3DC2-468C-83AF-C59EE861452C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BFEDE0-3DC2-468C-83AF-C59EE861452C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E79C91-267F-4DCD-9D4D-18E27BE077BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E79C91-267F-4DCD-9D4D-18E27BE077BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E79C91-267F-4DCD-9D4D-18E27BE077BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E79C91-267F-4DCD-9D4D-18E27BE077BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F5A1E81-4969-403B-9D76-EF09A61A6455}
+	EndGlobalSection
+EndGlobal
